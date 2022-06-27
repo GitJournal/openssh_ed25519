@@ -1,6 +1,6 @@
 name: openssh_ed25519
 description: Serialize an ed25519 key into the openssh format
-version: 1.1.0
+version: 1.1.1
 homepage: https://github.com/GitJournal/openssh_ed25519
 
 environment:
